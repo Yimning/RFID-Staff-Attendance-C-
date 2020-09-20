@@ -1,0 +1,10 @@
+C:\LZP\project\C#\RFID\RFID\bin\Debug\RFID.exe.config
+C:\LZP\project\C#\RFID\RFID\bin\Debug\RFID.exe
+C:\LZP\project\C#\RFID\RFID\bin\Debug\RFID.pdb
+C:\LZP\project\C#\RFID\RFID\obj\Debug\RFID.csprojResolveAssemblyReference.cache
+C:\LZP\project\C#\RFID\RFID\obj\Debug\RFID.Form1.resources
+C:\LZP\project\C#\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+C:\LZP\project\C#\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.Cache
+C:\LZP\project\C#\RFID\RFID\obj\Debug\RFID.exe
+C:\LZP\project\C#\RFID\RFID\obj\Debug\RFID.pdb
+C:\LZP\project\C#\RFID\RFID\obj\Debug\RFID.Form2.resources
